@@ -15,6 +15,8 @@ int main()
 	return 0;
 }
 
+
+// an dieser Stelle mal ein Kommentar.
 float priceOfItem()
 {
 	float price;
